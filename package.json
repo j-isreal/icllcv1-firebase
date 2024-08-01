@@ -4,7 +4,7 @@
   "description": "Isreal Consulting - Firebase Test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello - Firebase Test\" && exit 1"
+    "build": "webpack --mode=development"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/j-isreal/icllcv1-firebase/issues"
   },
-  "homepage": "https://github.com/j-isreal/icllcv1-firebase#readme"
+  "homepage": "https://github.com/j-isreal/icllcv1-firebase#readme",
+  "dependencies": {
+    "firebase": "^10.12.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
