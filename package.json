@@ -1,0 +1,22 @@
+{
+  "name": "icllcv1",
+  "version": "1.0.0",
+  "description": "Isreal Consulting - Firebase Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello - Firebase Test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-isreal/icllcv1-firebase.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Isreal Consulting KLLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-isreal/icllcv1-firebase/issues"
+  },
+  "homepage": "https://github.com/j-isreal/icllcv1-firebase#readme"
+}
